@@ -6,6 +6,6 @@ As the user of this database, you must cite the name of this repository and its 
 For example:
 " The initial atomic structures of our models were extracted from Ref. [1] ".
 
-[ 1 ] M.aryanpour, https://github.com/m-aryanpour/atomic-structures/
+[ 1 ] M. Aryanpour, https://github.com/m-aryanpour/atomic-structures/
 
 
